@@ -11,9 +11,9 @@ public class Test {
 			}
 		}
 		if (flag == false)
-			System.out.println(" SOWMI IS A FRAUD");
+			System.out.println(" IS A PRIME");
 		else
-			System.out.println("SOWMI IS NOT A FRAUD");
+			System.out.println(" IS NOT A PRIME");
 	}
 
 }
